@@ -1,5 +1,7 @@
 <?php
 
-echo greet('Mauricio', 'Cómo estas...?');
+require 'greet.php';
+
+echo greet('Mauricio', 'Cómo estas...');
 
 ?>
