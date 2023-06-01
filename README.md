@@ -19,3 +19,6 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
 4. (class_8) Encapsulation
     - The use of access modifiers: Public/ Protected/ Private
     - The use of getter/setter methods
+
+5. (class_10) Polymorphism
+    - How to implement polymorphism by overriding methods from parent class in the child classes
