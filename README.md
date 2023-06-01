@@ -22,3 +22,7 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
 
 5. (class_10) Polymorphism
     - How to implement polymorphism by overriding methods from parent class in the child classes
+
+6. (class_12) inheritance
+    - How implement inheritance using the keyword "extends"
+    - How prevent overriding and inheritance using the keyword "final"
