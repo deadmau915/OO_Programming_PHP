@@ -15,3 +15,7 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
 
 3. (class_7) Abstraction
     - How to use abstract classes and interfaces
+
+4. (class_8) Encapsulation
+    - The use of access modifiers: Public/ Protected/ Private
+    - The use of getter/setter methods
