@@ -1,23 +1,23 @@
-/class_12/vendor/
-/class_12/node_modules/
-/class_12/npm-debug.log
-/class_12/yarn-error.log
+/TDD_Project/vendor/
+/TDD_Project/node_modules/
+/TDD_Project/npm-debug.log
+/TDD_Project/yarn-error.log
 
 # Laravel 4 specific
-/class_12/bootstrap/compiled.php
-/class_12/app/storage/
+/TDD_Project/bootstrap/compiled.php
+/TDD_Project/app/storage/
 
 # Laravel 5 & Lumen specific
-/class_12/public/storage
-/class_12/public/hot
+/TDD_Project/public/storage
+/TDD_Project/public/hot
 
 # Laravel 5 & Lumen specific with changed public path
-/class_12/public_html/storage
-/class_12/public_html/hot
+/TDD_Project/public_html/storage
+/TDD_Project/public_html/hot
 
-/class_12/storage/*.key
-/class_12/.env
-/class_12/Homestead.yaml
-/class_12/Homestead.json
-/class_12/.vagrant
-/class_12/.phpunit.result.cache
+/TDD_Project/storage/*.key
+/TDD_Project/.env
+/TDD_Project/Homestead.yaml
+/TDD_Project/Homestead.json
+/TDD_Project/.vagrant
+/TDD_Project/.phpunit.result.cache
