@@ -26,3 +26,6 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
 6. (class_11) Inheritance
     - How implement inheritance using the keyword "extends"
     - How prevent overriding and inheritance using the keyword "final"
+
+7. (TDD_Project) Test-Driven Development
+    - Using PHPUnit to build a small example of how use TDD practice
