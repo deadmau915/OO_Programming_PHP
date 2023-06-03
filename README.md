@@ -28,4 +28,4 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
     - How prevent overriding and inheritance using the keyword "final"
 
 7. (TDD_Project) Test-Driven Development
-    - Using PHPUnit to build a small example of how use TDD practice
+    - Using PHPUnit to build a small piece of code that shows how TDD works
