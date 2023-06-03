@@ -29,3 +29,7 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
 
 7. (TDD_Project) Test-Driven Development
     - Using PHPUnit to build a small piece of code that shows how TDD works
+
+## Conclusion
+
+There were some concepts that I didn't know like ban Inheritance and overriding, also how to implement some concepts and the usage of some keywords, by the end of this course I fell a better developer, we never stop to learn!!
