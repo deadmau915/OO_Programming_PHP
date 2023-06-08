@@ -32,4 +32,4 @@ In this course, I learn the fundamentals of Object-Oriented Programming (OOP) in
 
 ## Conclusion
 
-There were some concepts that I didn't know like ban Inheritance and overriding, also how to implement some concepts and the usage of some keywords, by the end of this course I fell a better developer, we never stop to learn!!
+There were some concepts that I didn't know like ban Inheritance and overriding, also how to implement some concepts and the usage of some keywords, by the end of this course I feel a better developer, we never stop to learn!!
